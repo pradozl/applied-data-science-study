@@ -5,7 +5,7 @@
 Aqui estarão os notebooks e códigos desenvolvidos ao longo dos 16 encontros:
     - **Semana 1:** Abertura, carregamento do DataSet *Breast Cancer Wisconsin* (Scikit-Learn).
 
-## O será Utilizado
+## O que será Utilizado
 
 - Python
 - Pandas
